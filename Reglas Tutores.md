@@ -23,7 +23,7 @@ CupiTaller es un espacio al que pueden asistir estudiantes de todos los programa
 
 ## Objetivo del programa
 
-Se debe fomentar la independencia y el liderazgo en el proceso de aprendizaje. Se espera que después de una tutoría usted esté en capacidad de trabajar autónomamente, es decir, cada vez más sin el apoyo de los tutores.
+Se debe fomentar la independencia y el liderazgo en el proceso de aprendizaje. Se espera que después de una tutoría el estudiante esté en capacidad de trabajar autónomamente, es decir, cada vez más sin el apoyo de los tutores.
 
 ## ¿Qué es una tutoría?
 
