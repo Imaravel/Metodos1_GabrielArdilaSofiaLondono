@@ -101,6 +101,15 @@ Consulte la sección [[Reglas Estudiantes#Sanciones|Sanciones]] en la Guía para
 
 Consulte las secciones [[Reglas Estudiantes#Sanciones|Sanciones]] y [[Reglas Estudiantes#Sanciones especiales|Sanciones especiales]] en la Guía para Estudiantes.
 
+### ¿Existe un proceso de apelación para las sanciones?
+
+Si considera que una sanción fue injusta:
+
+- Envíe un correo a cupitaller@uniandes.edu.co con el asunto "Apelación de sanción"
+- Explique detalladamente su situación y por qué considera que la sanción no debería aplicar
+- Adjunte cualquier evidencia relevante que respalde su caso
+- Tenga en cuenta que las decisiones se basan en las políticas establecidas en el [[Reglas Estudiantes|reglamento]]
+
 ## Preguntas adicionales
 
 ### ¿Qué hago si necesito más tiempo del asignado en mi tutoría?
@@ -132,12 +141,3 @@ Si experimenta algún problema:
     - Nombre del tutor
     - Descripción objetiva de la situación
     - Evidencia si la tiene
-
-### ¿Existe un proceso de apelación para las sanciones?
-
-Si considera que una sanción fue injusta:
-
-- Envíe un correo a cupitaller@uniandes.edu.co con el asunto "Apelación de sanción"
-- Explique detalladamente su situación y por qué considera que la sanción no debería aplicar
-- Adjunte cualquier evidencia relevante que respalde su caso
-- Tenga en cuenta que las decisiones se basan en las políticas establecidas en el [[Reglas Estudiantes|reglamento]]
