@@ -94,7 +94,7 @@ Como tutor, no se debe permitir:
 3. Para tutorías express: esperar **hasta 5 minutos después** de la hora de inicio
 4. Si no hay asistencia dentro de esos tiempos, el tutor puede retirarse de la sala
 5. Si el tutor no llega dentro de esos tiempos será considerado una ausencia injustificada
-6. NO serán toleradas las inasistencias injustificadas y estas podrían llevar a una terminación temprana del convenio educativo
+6. NO serán toleradas las ausencias injustificadas y estas podrían llevar a una terminación temprana del convenio educativo
 
 ## Política de excusas
 
